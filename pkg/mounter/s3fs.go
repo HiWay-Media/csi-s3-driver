@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/HiWay-Media/k8s-csi-s3/pkg/s3"
+	"github.com/HiWay-Media/csi-s3-driver/pkg/s3"
 )
 
 // Implements Mounter
